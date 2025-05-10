@@ -55,4 +55,15 @@ SpeedGuard AI is a real-time, intelligent web and mobile application (PWA-suppor
 
 ---
 
+## 📸 Demo
+![SpeedGuardAI UI](https://github.com/Hesam760/SpeedGuardAI/blob/main/Screenshots/AppUI.png)
+
+---
+
+## 🛡 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+
 
