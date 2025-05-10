@@ -1,0 +1,124 @@
+[
+    {
+        "level": "INFO",
+        "timestamp": "2025-01-19T10:33:46.201778+03:30",
+        "event": "connect",
+        "client": [
+            "127.0.0.1",
+            40646
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+        "x-forwarded-for": "113.203.88.143",
+        "path": "/ws/frame/"
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-01-19T10:34:16.330005+03:30",
+        "event": "disconnect",
+        "client": [
+            "127.0.0.1",
+            40646
+        ],
+        "close_code": 1006
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-01-29T08:13:22.902780+03:30",
+        "event": "connect",
+        "client": [
+            "127.0.0.1",
+            53708
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+        "x-forwarded-for": "83.123.57.136",
+        "path": "/ws/frame/"
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-01-29T08:15:24.679903+03:30",
+        "event": "disconnect",
+        "client": [
+            "127.0.0.1",
+            53708
+        ],
+        "close_code": 1001
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-02-05T09:19:39.017855+03:30",
+        "event": "connect",
+        "client": [
+            "127.0.0.1",
+            45828
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+        "x-forwarded-for": "83.123.222.184",
+        "path": "/ws/frame/"
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-02-05T09:21:44.534973+03:30",
+        "event": "disconnect",
+        "client": [
+            "127.0.0.1",
+            45828
+        ],
+        "close_code": 1006
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-02-05T09:22:07.702163+03:30",
+        "event": "connect",
+        "client": [
+            "127.0.0.1",
+            43354
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+        "x-forwarded-for": "83.123.222.184",
+        "path": "/ws/frame/"
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-02-05T09:22:19.034221+03:30",
+        "event": "disconnect",
+        "client": [
+            "127.0.0.1",
+            43354
+        ],
+        "close_code": 1006
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-02-05T09:22:38.978102+03:30",
+        "event": "connect",
+        "client": [
+            "127.0.0.1",
+            42264
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+        "x-forwarded-for": "83.123.222.184",
+        "path": "/ws/frame/"
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-02-05T09:24:07.740482+03:30",
+        "event": "disconnect",
+        "client": [
+            "127.0.0.1",
+            42264
+        ],
+        "close_code": 1001
+    },
+    {
+        "level": "INFO",
+        "timestamp": "2025-02-05T13:26:49.924091+03:30",
+        "event": "connect",
+        "client": [
+            "127.0.0.1",
+            44360
+        ],
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+        "x-forwarded-for": "83.123.222.184",
+        "path": "/ws/frame/"
+    }
+]
